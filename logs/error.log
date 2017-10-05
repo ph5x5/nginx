@@ -129,3 +129,8 @@
 2017/10/05 16:03:42 [error] 28279#0: *7 user "admin" was not found in "/home/andrey_murzich/nginx/conf/.htpasswd", client: 192.168.122.1, server: 192.168.122.73, request: "GET /admin HTTP/1.1", host: "192.168.122.73:8080", referrer: "http://192.168.122.73:8080/"
 2017/10/05 16:30:55 [notice] 28959#0: signal process started
 2017/10/05 16:34:09 [emerg] 29085#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 16:46:09 [emerg] 29657#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 16:46:49 [emerg] 29697#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 16:46:53 [emerg] 29713#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 16:47:09 [emerg] 29725#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 16:48:47 [notice] 29752#0: signal process started
