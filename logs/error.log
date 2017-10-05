@@ -127,3 +127,5 @@
 2017/10/05 16:02:42 [error] 28279#0: *2 open() "/home/andrey_murzich/nginx/html/html/rerer.html" failed (2: No such file or directory), client: 127.0.0.1, server: 192.168.122.73, request: "GET /rerer.html HTTP/1.1", host: "localhost:8080"
 2017/10/05 16:03:41 [error] 28279#0: *7 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.73, request: "GET /status HTTP/1.1", host: "192.168.122.73:8080", referrer: "http://192.168.122.73:8080/"
 2017/10/05 16:03:42 [error] 28279#0: *7 user "admin" was not found in "/home/andrey_murzich/nginx/conf/.htpasswd", client: 192.168.122.1, server: 192.168.122.73, request: "GET /admin HTTP/1.1", host: "192.168.122.73:8080", referrer: "http://192.168.122.73:8080/"
+2017/10/05 16:30:55 [notice] 28959#0: signal process started
+2017/10/05 16:34:09 [emerg] 29085#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
